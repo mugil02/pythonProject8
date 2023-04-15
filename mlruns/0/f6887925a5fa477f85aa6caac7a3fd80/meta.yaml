@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mugilrajark/PycharmProjects/pythonProject8/mlruns/0/f6887925a5fa477f85aa6caac7a3fd80/artifacts
+end_time: 1681587112256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6887925a5fa477f85aa6caac7a3fd80
+run_name: judicious-trout-640
+run_uuid: f6887925a5fa477f85aa6caac7a3fd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681587111546
+status: 3
+tags: []
+user_id: mugilrajark
